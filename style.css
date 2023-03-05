@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+}
+body{
+    margin: 0%;
+}
+
+.main{
+    width: 100%;
+    background-image: url(photo-1614849286521-4c58b2f0ff15.jpg);
+    /* background-color: bisque; */
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.navbar{
+    background-color: rgb(141, 100, 139);
+    color: antiquewhite;
+    height: 35px;
+}
+.navbarbox{
+    display: inline-flex;
+    align-items: center;
+
+}
+.icon{
+    width: 150px;
+    margin-left: 50px;
+    font-size:28px;
+    align-items: center;
+}
+
+.menu{}
+
+ul{
+    display: inline-flex;
+}
+
+ul li{
+    margin-left: 40px;
+}
+
+.firsthalf{
+    background-color: black;
+    width: 50%;
+    height: 95.20vh;
+    margin-top: 3.5px;
+}
